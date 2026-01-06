@@ -64,6 +64,10 @@ The trained models are available for download:
 2. **Load Pre-computed**: View saved results instantly
 3. **Upload Custom**: Analyze your own data
 
+## Repository
+
+The source code is available on GitHub: [https://github.com/Trojan9/MetaboNiche](https://github.com/Trojan9/MetaboNiche)
+
 ## Deployed Application
 
 The application is live and accessible at: [https://huggingface.co/spaces/Trojan9/metaboniche](https://huggingface.co/spaces/Trojan9/metaboniche)
