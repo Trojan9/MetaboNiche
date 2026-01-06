@@ -52,6 +52,12 @@ The data used in this project is available at:
 Model pretraining was performed using:
 - [Hest-1k Dataset](https://huggingface.co/datasets/MahmoodLab/hest) - Spatial transcriptomics dataset from HuggingFace
 
+## Pre-trained Models
+
+The trained models are available for download:
+- **Graph Model**: [Download from Google Drive](https://drive.google.com/file/d/1ULjZwQC8iqLRaZn6yOU5kZbio5ElwwsX/view?usp=drive_link)
+- **Multimodal Model**: [Download from Google Drive](https://drive.google.com/file/d/1DrI7oOhN3X0s4DWdmywCJZyjB3vdr96K/view?usp=sharing)
+
 ## Usage
 
 1. **Load Default**: Process all pre-configured samples
